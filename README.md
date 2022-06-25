@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EduardoBasurto
-- 👀 I’m interested in Data Analytics, Software Development, Data Engineering, Science, Automation, Physics and more! 
-- 🌱 I’m currently learning Quantum Computing, Machine Learning and the intersection of these two fields
-- 💞️ I’m looking to collaborate on projects that create academic opportunities for people in seek of expanding their knowledge
+- 👀 I’m a Data Professional interested in Data Analytics, Data Engineering, Data Science and everything related to data!
+- 🌱 I’m currently developing all kinds of projects. Python, Web Development, Java, and more.
+- 💞️ Looking forward to study MSc. Want to be an expert in modeling real world problems.
 - 📫 How to reach me: email: contacto.ebv@gmail.com | phone: +52 55 5457 4344
 
 <!---
